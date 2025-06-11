@@ -1,0 +1,27 @@
+.post-it{
+    background-color:blueviolet;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 24px; 
+    padding: 24px;
+    font-family: 'Lucida Sans';
+}
+.post-it2{
+    background-color: pink;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 24px; 
+    padding: 24px;
+    font-family: 'Trebuchet MS';
+}
+.post-it3{
+    background-color: yellow;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 24px; 
+    padding: 24px;
+    font-family: Arial;
+}
