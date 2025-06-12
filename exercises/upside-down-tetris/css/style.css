@@ -1,0 +1,137 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the Upside-down Tetris assignment.
+
+    Good luck, and have fun!
+*/
+
+.tetris-block{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: yellow;
+    border-color: yellow
+}
+.tetris-block-4{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: orangered;
+    border-color: orangered 
+}
+.tetris-block-6{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: blue;
+    border-color: blue 
+}
+.tetris-block-7{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: blue;
+    border-color: blue 
+}
+.tetris-block-8{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: orangered;
+    border-color: orangered 
+}
+.tetris-block-10{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: blue;
+    border-color: blue 
+}
+.tetris-block-11{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: orangered;
+    border-color: orangered 
+}
+.tetris-block-12{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: orangered;
+    border-color: orangered 
+}
+.tetris-block-13{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: purple;
+    border-color: purple 
+}
+.tetris-block-14{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: purple;
+    border-color: purple 
+}
+.tetris-block-15{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: purple;
+    border-color: purple 
+}
+.tetris-block-16{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: purple;
+    border-color: purple 
+}
+.tetris-block-17{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: purple;
+    border-color: purple 
+}
+.tetris-block-18{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: green;
+    border-color: green 
+}
+.tetris-block-19{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: green;
+    border-color: green 
+}
+.tetris-block-20{
+    padding: 25px;
+    border-width: 25px;
+    border-style:outset;
+    display:inline-block;
+    background-color: green;
+    border-color: green 
+}
