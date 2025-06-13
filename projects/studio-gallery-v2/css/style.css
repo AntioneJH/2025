@@ -1,0 +1,36 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the assignment.
+
+    Good luck, and have fun!
+*/
+.poster-1 {
+    display: inline-block;
+    margin: 25px 25px 25px 25px;
+}
+.poster-1 img{
+    display: block;
+    border: 5px solid brown;
+    width:150px;
+    height:150px;
+}
+
+.poster-2 {
+    display: inline-block;
+    margin: 25px 25px 25px 25px;
+}
+.poster-2 img{
+    display: block;
+    border: 5px solid brown;
+    width:150px;
+    height:150px;
+}
+.poster-3 {
+    display: inline-block;
+    background-color: linen;
+    border: 5px solid brown;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
