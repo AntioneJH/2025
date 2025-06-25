@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#navbar,
+#footer {
+    background-color: #000000;
+}
+
+#navbar a,
+#footer a {
+    color: #fbe888;
+    text-decoration: none;
+    display: inline-block;
+    padding: 12px 12px 12px 0px;
+}
+
+.center-column,
+#footer-column {
+    width: 500px;
+    margin: 0px auto;
+}
+
+.center-column h3, p {
+    text-align: center;
+}
+
+.center-column h3 {
+    border: 5px solid black;
+    border-radius: 15px;
+    background-color: #000000;
+    color: #fbe888;
+}
