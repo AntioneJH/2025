@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#hero-1 {
+    /*begin basic hero setup*/
+    background-image: url("../images/lizard.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    /*end basic hero setup*/
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    /*must be applied to container*/
+    position: relative;
+}
+
+#hero-1 h1 {
+    /*figuring out how to move things inside container
+    with new properties*/
+    font-size: 120px;
+    position: absolute;
+    left: 20%;
+}
