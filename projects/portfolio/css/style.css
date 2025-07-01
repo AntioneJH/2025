@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Basic&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+    background-color: gray;
+}
+
+#hero-1 {
+    background-image: url("../images/urban-hi-res-3q76.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+}
+
+#hero-1 h1 {
+    color: white;
+    font-family: "Basic", sans-serif;
+    font-weight: 400;
+    font-style: normal;   
+}
+
+.hero-content {
+    text-align: right;
+    padding-left: 750px;
+    font-size: 35px;
+}
+
+.hero-content a {
+    border: 15px solid black;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.basic-grid-gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 24px;
+    gap: 25px;
+}
+
+.basic-grid-gallery img {
+    width: 100%;
+}
+
+#gallery-body p {
+    color: white;
+}
+
+#gallery-body h2 {
+    font-family: "Basic", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    color: white;
+    font-size: 40px;
+
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    
+}
+
+.card {
+    border: 5px solid black;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    
+}
