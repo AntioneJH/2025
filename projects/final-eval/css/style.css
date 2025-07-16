@@ -4,7 +4,7 @@
 
 body {
     margin: 0px;
-    font-family: sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-image: url("../images/pngtree-3d-illustration-of-a-football-field-in-america-image_3781885.jpg");
     background-size: cover;
     background-position: center center;
@@ -27,6 +27,7 @@ body {
     width: 250px;
     margin: auto;
 }
+
 .center-column-body h1 {
     display: flex;
     justify-content: center;
@@ -45,18 +46,21 @@ body {
     text-align: center;
 }
 
-#center-column-cta a {
+.center-column-cta {
+    display: flex;
+    justify-content: space-between;
+}
+
+.center-column-cta a {
     text-decoration: none;
     background: linear-gradient(rgb(82, 82, 82), blue);
     color: white;
     display: flex;
     width: 200px;
     font-size: 24px;
-    margin: 24px;
+    margin: 24px auto;
     padding: 15px;
     border: 2px solid grey;
     box-shadow: 4px 4px 4px #00000033;
-    display: inline-flex;
     text-align: center;
-
 }
