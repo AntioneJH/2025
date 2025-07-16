@@ -67,6 +67,11 @@ body {
     margin-top: 40px;
 }
 
+#navbar-bottom a:hover {
+    color: white;
+    background-color: #3f3929;
+}
+
 #menu-heading {
     text-align: center;
     font-size: 35px;
@@ -82,7 +87,7 @@ body {
 
 .grid-gallery img {
     width: 100%;
-    box-shadow: 4px 4px 4px rgb(54, 54, 54);
-    border: 5px solid rgb(54, 54, 54);
+    box-shadow: 4px 4px 4px #00000033;
+    border: 5px solid #a98c6f;
 }
 
