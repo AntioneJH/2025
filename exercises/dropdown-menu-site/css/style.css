@@ -33,10 +33,12 @@ body {
 
 }
 
-#navbar a {
+#navbar a, 
+#navbar-bottom a {
     text-decoration: none;
     color: white;
     padding: 24px;
+    display: inline-block;
 }
 
 #navbar .cta-button {
@@ -270,7 +272,6 @@ body {
     display: inline-block;
     width: 100%;
     text-align: center;
-    /*can also use display:block; for the same effect*/
     border: 3px solid #80f098;
     transition: 
         background-color 0.5s,
@@ -327,7 +328,6 @@ body {
     display: inline-block;
     width: 100%;
     text-align: center;
-    /*can also use display:block; for the same effect*/
     border: 3px solid #f0e580;
     transition: 
         background-color 0.5s,
@@ -383,7 +383,6 @@ body {
     display: inline-block;
     width: 100%;
     text-align: center;
-    /*can also use display:block; for the same effect*/
     border: 3px solid #f08080;
     transition: 
         background-color 0.5s,
